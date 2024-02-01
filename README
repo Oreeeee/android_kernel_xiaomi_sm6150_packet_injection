@@ -1,3 +1,11 @@
+GUIDE FOR COMPILING WITH RTWIFI DRIVER
+============
+git submodule init
+git submodule update
+
+Configs you have to apply: vendor/sdmsteppe-perf_defconfig vendor/debugfs.config vendor/davinci.config vendor/rtwifi.config
+
+
 Linux kernel
 ============
 
